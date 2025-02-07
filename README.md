@@ -1,10 +1,10 @@
 # .Net Potato
 将以前收集到的Potato方法整理出来了
 
-DCOMPotato
+- DCOMPotato
 
-GodPotato
+- GodPotato
 
-PrintNotifyPotato
+- PrintNotifyPotato
 
-SweetPotato
+- SweetPotato
